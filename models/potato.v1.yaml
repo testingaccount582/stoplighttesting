@@ -1,0 +1,15 @@
+title: potato
+type: object
+properties:
+  id:
+    type: string
+  yep:
+    type: string
+  this:
+    type: string
+  is:
+    type: string
+  a:
+    type: string
+  thing:
+    type: string
